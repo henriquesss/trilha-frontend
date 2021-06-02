@@ -3,9 +3,7 @@ import { useAuth } from './providers/auth'
 import Profile from './components/Profile'
 
 function App() {
-  const { user, setUser } = useAuth()
-
-  console.log("Bau", user)
+  const { setUser } = useAuth()
 
   return (
     <div className="App">
