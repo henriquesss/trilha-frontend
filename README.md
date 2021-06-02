@@ -12,11 +12,11 @@ Oi, seja bem vindo ou bem vinda ao meu repositório de estudos pessoal de fronte
 
 - [x] TypeScript
 - [x] Context API
-- [] Jest
-- [] Testing Library
-- [] Cypress
-- [] StoryBook
-- [] GraphQL e Apollo ( Sim, não é necessariamente front, mas faz sentido nessa trilha)
+- Jest
+- Testing Library
+- Cypress
+- StoryBook
+- GraphQL e Apollo ( Sim, não é necessariamente front, mas faz sentido nessa trilha)
 
 ## Tópicos importantes
 
