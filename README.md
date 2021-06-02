@@ -10,13 +10,13 @@ Oi, seja bem vindo ou bem vinda ao meu repositório de estudos pessoal de fronte
 
 ## Ferramentas a serem estudadas
 
-- TypeScript
-- Context API
-- Jest
-- Testing Library
-- Cypress
-- StoryBook
-- GraphQL e Apollo ( Sim, não é necessariamente front, mas faz sentido nessa trilha)
+- [x] TypeScript
+- [x] Context API
+- [] Jest
+- [] Testing Library
+- [] Cypress
+- [] StoryBook
+- [] GraphQL e Apollo ( Sim, não é necessariamente front, mas faz sentido nessa trilha)
 
 ## Tópicos importantes
 
