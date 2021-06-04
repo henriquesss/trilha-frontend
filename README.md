@@ -12,7 +12,7 @@ Oi, seja bem vindo ou bem vinda ao meu repositório de estudos pessoal de fronte
 
 - [x] TypeScript
 - [x] Context API
-- Jest
+- [x] Jest
 - Testing Library
 - Cypress
 - StoryBook
