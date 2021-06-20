@@ -18,7 +18,7 @@ Visando me atualizar o mais rápido possível, pretendo estudar as ferramentas s
 - [x] Jest
 - [x] Testing Library
 - [x] Cypress
-- StoryBook
+- [x] StoryBook
 - GraphQL e Apollo ( Sim, não é necessariamente front, mas faz sentido nessa trilha)
 
 ## Tópicos importantes
